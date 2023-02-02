@@ -89,6 +89,7 @@ body {
 .contenedor2 .texto p{
     margin-top: 15px;
     margin-bottom: 20px;
+    font-size: 15px;
 }
 .contenedor2 .texto a{
     color: #034be6;
